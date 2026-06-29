@@ -6,6 +6,15 @@ The **User Management Dashboard** is a responsive React application that enables
 
 Although JSONPlaceholder is a mock API and does not permanently store changes, the application updates the local React state to provide a realistic user management experience.
 
+### Link for live project:
+
+https://user-management-dashboard-sai-prathap.vercel.app
+
+### Output:
+
+https://drive.google.com/file/d/1wBAF88Bs_JCavCvSYTck4ynmskzl2tCs/view
+
+
 ---
 
 ## Features
