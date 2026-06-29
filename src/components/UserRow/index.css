@@ -1,0 +1,24 @@
+.edit-btn{
+    background:#22c55e;
+    color:white;
+    border:none;
+    padding:8px 14px;
+    border-radius:6px;
+    margin-right:8px;
+}
+
+.edit-btn:hover{
+    background:#16a34a;
+}
+
+.delete-btn{
+    background:#ef4444;
+    color:white;
+    border:none;
+    padding:8px 14px;
+    border-radius:6px;
+}
+
+.delete-btn:hover{
+    background:#dc2626;
+}
